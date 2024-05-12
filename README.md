@@ -24,7 +24,7 @@ El contenido del curso incluye, entre otros temas:
 - Atributos.
 - Operaciones.
 - Interfaces.
-- Objetos Metaclases.
+- Objetos Meta clases.
 - Diseño de Aplicaciones OO.
 - Relaciones entre clases y objeto Herencia y Polimorfismo.
 - Herencia Simple, Múltiple, de Interfaz y de Implementación Polimorfismo.
@@ -46,8 +46,8 @@ Este repositorio servirá como mi portafolio para la materia. Aquí podrás enco
 
 ## Contacto
 
-Puedes contactarme a través de mi correo electrónico [tu correo electrónico] para cualquier pregunta o colaboración relacionada con la materia.
+Puedes contactarme a través de mi correo electrónico oscarlely@gmail.com para cualquier pregunta o colaboración relacionada con la materia.
 
 ¡Espero que disfrutes explorando mi repositorio tanto como yo disfruto trabajando en él!
 
-![Inserta una imagen relevante aquí](inserta_imagen.png)
+![Inserta una imagen relevante aquí](images/6360fc35edf9e.png)
