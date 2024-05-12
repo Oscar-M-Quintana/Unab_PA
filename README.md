@@ -1,5 +1,5 @@
 # Programación Avanzada - Carrera de Ciencia de Datos
-![UNAB Logo]((https://campus.unab.edu.ar/pluginfile.php/82938/course/section/3437/banner-universidad%20-%202.png))
+![UNAB Logo](https://campus.unab.edu.ar/pluginfile.php/82938/course/section/3437/banner-universidad%20-%202.png)
 
 ¡Hola! Soy Oscar Miguel Quintana, alumno de la Universidad de Almirante Brown (UNAB), y este es mi repositorio para la materia de Programación Avanzada en la carrera de Ciencia de Datos.
 
