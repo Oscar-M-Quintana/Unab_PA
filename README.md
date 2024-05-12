@@ -2,6 +2,8 @@
 
 # Programación Avanzada - Carrera de Ciencia de Datos
 
+## Profesor Lic. Felipe Morales.
+
 ¡Hola! Soy Oscar Miguel Quintana, alumno de la Universidad de Almirante Brown (UNAB), y este es mi repositorio para la materia de Programación Avanzada en la carrera de Ciencia de Datos.
 
 En este repositorio, encontrarás los trabajos prácticos y proyectos que desarrollaré a lo largo del curso. ¡Espero que encuentres interesante mi progreso y contribuciones!
@@ -14,13 +16,23 @@ Programación Avanzada es una materia crucial en nuestra formación como cientí
 
 El contenido del curso incluye, entre otros temas:
 
-- Fundamentos de programación en Python
-- Estructuras de datos avanzadas
-- Programación orientada a objetos
-- Manejo avanzado de archivos y bases de datos
-- Algoritmos y estructuras de datos avanzadas
-- Optimización y rendimiento
-- Proyectos prácticos en ciencia de datos
+- Introducción al Paradigma Orientado a Objetos.
+- El progreso de la abstracción.
+- Metas del Paradigma Orientado a Objetos.
+- Conceptos Básicos de la Programación Orientada a Objetos.
+- Clase.
+- Atributos.
+- Operaciones.
+- Interfaces.
+- Objetos Metaclases.
+- Diseño de Aplicaciones OO.
+- Relaciones entre clases y objeto Herencia y Polimorfismo.
+- Herencia Simple, Múltiple, de Interfaz y de Implementación Polimorfismo.
+- Reuso.
+- Sobrecarga.
+- Sobreescritura.
+- Variables Polimórficas.
+- Ejemplos e implementación en lenguajes de programación Orientados a Objetos.
 
 ## Uso del Repositorio
 
